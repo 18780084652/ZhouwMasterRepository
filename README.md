@@ -1,2 +1,2 @@
 # ZhouwMasterRepository
-Creating a new branch is quick or simple.
+Creating a new branch is quick And simple.
